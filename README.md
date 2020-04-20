@@ -9,16 +9,18 @@
     - [pyenv](#pyenv)
     - [virtualenv](#virtualenv)
     - [pipenv](#pipenv)
-    - [poetry](#poetry)
-    - [pyflow](#pyflow)
+
    
 # Environment Management
-
 * [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management.
 * [virtualenv](https://github.com/pypa/virtualenv) - A tool to create isolated Python environments.
 * [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 * [poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 * [pyflow](https://github.com/David-OConnor/pyflow) - An installation and dependency system for Python
+* [conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem
+* [anaconda](https://github.com/DamnWidget/anaconda) - Conda recipes for the bioconda channel. 
+* [dephell](https://github.com/dephell/dephell) - 📦 🔥 Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version. 
+
 
 # Extension
 
@@ -33,6 +35,8 @@
 * [fish-pipenv](https://github.com/sentriz/fish-pipenv) - 🐟🐍 a fish plugin that automatically activates the pipenv subshell
 * [pipenv-pipes](https://github.com/gtalarico/pipenv-pipes) - A PipEnv Environment Switcher
 
-## poetry
+## conda
+* [conda-build](https://github.com/conda/conda-build) - Commands and tools for building conda packages
+* [staged-recipes](https://github.com/conda-forge/staged-recipes) - A place to submit conda recipes before they become fully fledged conda-forge feedstocks
 
-## pyflow
+
