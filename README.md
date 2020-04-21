@@ -20,7 +20,7 @@
 * [conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem
 * [anaconda](https://github.com/DamnWidget/anaconda) - Conda recipes for the bioconda channel. 
 * [dephell](https://github.com/dephell/dephell) - 📦 🔥 Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version. 
-
+* [spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
 
 # Extension
 
